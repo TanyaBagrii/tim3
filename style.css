@@ -1,0 +1,77 @@
+body {
+   font-family: sans-serif;
+       background-image: linear-gradient(to right,#16DCC4,#5E3C8B);
+}
+
+
+h1 {
+   text-align: center;
+}
+
+
+.jof2 {
+   text-align: center;
+   color: #851E1E;
+}
+
+
+.kljp:hover {
+   transform: scale(0,1);
+   transition: 7s linear;
+}
+
+
+.feisb {
+   width: 100px;
+   height: 100px;
+}
+
+
+.feisb:hover {
+   transform: scale(0,1);
+   transition: 7s linear;
+}
+
+
+.ytyb {
+   width: 110px;
+   height: 100px;
+}
+
+
+.ytyb:hover {
+   transform: scale(0,1);
+   transition: 7s linear;
+}
+
+
+.telegram {
+   width: 145px;
+   height: 100px;
+
+
+}
+
+
+.telegram:hover {
+   transform: scale(0,1);
+   transition: 6s linear;
+}
+.produkt{
+   display: flex;
+   width: 200px;
+   height: 300px;
+   margin-left: 50px;
+}
+.produkt .w:hover, .produkt .ww:hover, .produkt .www:hover{
+  width:300px;
+  height: 350px;
+  border: 3px solid red;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+footer {
+   background-color: blue;
+   margin-top: 35px;
+}
